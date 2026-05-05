@@ -1,4 +1,19 @@
-# FocusFlow: Real-Time Time Tracking & Productivity Analytics
+# Real-Time Time Tracking & Productivity Analytics
+
+
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME* : ABHISHEK KUMAR
+
+*INTERN ID* : CTIS4271
+
+*DOMAIN* : FULL STACK WEB DEVELOPMENT
+
+*DURATION* : 16 WEEKS
+
+*MENTOR* :NEELA SANTOSH KUMAR 
+
+# Real-Time Time Tracking & Productivity Analytics
 
 A comprehensive Chrome extension ecosystem for tracking productivity, classifying website usage, and providing detailed analytics to help users optimize their digital habits.
 

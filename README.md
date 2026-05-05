@@ -164,3 +164,16 @@ For issues and questions:
 - Charts powered by Recharts
 - UI styled with Tailwind CSS
 - Icons from Lucide React
+
+- ## Output
+<img width="1918" height="877" alt="Image" src="https://github.com/user-attachments/assets/ef4fd8a9-fbf1-48b7-82f6-9e9c2905abff" />
+
+<img width="1917" height="867" alt="Image" src="https://github.com/user-attachments/assets/3da0ab11-3c71-4548-8b21-9859964ac6fe" />
+
+<img width="1913" height="871" alt="Image" src="https://github.com/user-attachments/assets/363c61da-4d33-4807-b847-1f27d4b6d105" />
+
+<img width="1913" height="867" alt="Image" src="https://github.com/user-attachments/assets/58fcfba8-d37a-46c1-b977-df9a6717953a" />
+
+<img width="1913" height="867" alt="Image" src="https://github.com/user-attachments/assets/4b087bbd-ed14-4255-9b19-e37967611c2e" />
+
+<img width="1918" height="878" alt="Image" src="https://github.com/user-attachments/assets/31ae4888-fba4-4048-b8aa-65e69919ab86" />
